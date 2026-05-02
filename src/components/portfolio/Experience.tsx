@@ -17,7 +17,7 @@ const timeline = [
     company: "Independent",
     points: [
       "Built full stack apps with React, Next.js, Node.js, Express",
-      "Designed REST APIs and integrated MongoDB / MySQL",
+      "Designed REST APIs and integrated MongoDB",
       "Reusable component architecture and Context API state",
     ],
   },
@@ -40,7 +40,7 @@ export function Experience() {
                 key={t.role}
                 initial={{ opacity: 0, x: -20 }}
                 whileInView={{ opacity: 1, x: 0 }}
-                viewport={{ once: true }}
+                // viewport={{ once: true }}
                 transition={{ duration: 0.5, delay: i * 0.1 }}
                 className="relative pl-12 sm:pl-16"
               >
