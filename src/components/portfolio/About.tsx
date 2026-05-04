@@ -53,6 +53,9 @@ export function About() {
               Currently building production-grade systems and sharpening my DSA
               daily — aiming for high-impact engineering roles.
             </p>
+            <p className="mt-6 text-gray-400">
+              Open to internships, freelance projects, and full-time opportunities.
+            </p>
 
             <div className="mt-8 border-t border-gray-800 pt-6">
   <h4 className="text-sm text-gray-400 font-mono">// education</h4>
