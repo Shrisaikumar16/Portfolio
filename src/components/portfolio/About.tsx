@@ -53,6 +53,33 @@ export function About() {
               Currently building production-grade systems and sharpening my DSA
               daily — aiming for high-impact engineering roles.
             </p>
+
+            <div className="mt-8 border-t border-gray-800 pt-6">
+  <h4 className="text-sm text-gray-400 font-mono">// education</h4>
+
+  <div className="mt-4 flex flex-col gap-3">
+    <div>
+      <p className="font-medium text-white">
+        B.Tech in Artificial Intelligence & Data Science
+      </p>
+      <p className="text-gray-400 text-sm">
+        Vidyavardhini College of Engineering and Technology • 2021 – 2025
+      </p>
+    </div>
+
+    {/* Optional second education (if any) */}
+    {/* 
+    <div>
+      <p className="font-medium text-white">
+        Higher Secondary (12th)
+      </p>
+      <p className="text-gray-400 text-sm">
+        Your School Name • Year
+      </p>
+    </div> 
+    */}
+  </div>
+</div>
           </motion.div>
         </div>
       </div>
