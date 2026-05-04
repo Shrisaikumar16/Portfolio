@@ -60,7 +60,7 @@ export function About() {
   <div className="mt-4 flex flex-col gap-3">
     <div>
       <p className="font-medium text-white">
-        B.Tech in Artificial Intelligence & Data Science
+        B.E in Artificial Intelligence & Data Science
       </p>
       <p className="text-gray-400 text-sm">
         Vidyavardhini College of Engineering and Technology • 2021 – 2025
